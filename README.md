@@ -67,8 +67,9 @@ generating summaries and enabling document-based Q&A.
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn:[ YOUR_LINKEDIN](https://www.linkedin.com/in/azeem-m-s-94b537380/)
+- Email: azeemazeem7777777777@gmail.com
+- 
 
 ---
 
