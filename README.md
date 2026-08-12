@@ -1,4 +1,4 @@
-# Hi, I'm Azeem 👋
+# Hi, I'm Azeem 
 
 ### AI & Data Science Student | Developer | Problem Solver
 
